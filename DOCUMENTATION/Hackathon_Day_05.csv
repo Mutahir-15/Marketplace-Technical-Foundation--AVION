@@ -1,8 +1,8 @@
-Test Cade ID,Test Case Description,Test Steps,Expected Results,Actual Result,Status,Remarks
-TC001,Validating product listing date.,/product-listing > Verifying Products,All products may render in grid.,As expected,Passed,"No issues fined, worked perfectly."
-TC002,Dynamic routes for details.,/product-listing > _id,Details of each product as per the product ID.,Details displayed correctly,Passed,Perfectly displayed.
-TC003,Header Component & navigation.,Home | Listing | Shopping Cart,"Navigation, UI & responsiveness worked. ",Anavigation to respected routes.,Passed,Navigation worked as expected.
-TC004,Footer & Socials Media icons.,UI and Icons displayed nicely.,Perfect UI and responsiveness.,Working good.,Passed,Worked as expected.
-TC005,FAQ's Component,Using Shadcn/ui ACCORDION.,Major questions and their answers.,Answer of question.,Passed,Looks Great.
-TC006,Cart Component,Adding to cart.,Items in cart and their prices.,Data not rendering.,Failed,Will be fixed soon. I'm working non-stop.
-TC007,Responsiveness Test,"Changing Device (Mobile, PC).",Display as per the device.,Workes perfectly.,Passed,Fun to make responsivess.
+Test Cade ID,Test Case Description,Test Steps,Expected Results,Actual Result,Status,Assigned to,Remarks
+TC001,Validating product listing date.,/product-listing > Verifying Products,All products may render in grid.,As expected,Passed,.,"No issues fined, worked perfectly."
+TC002,Dynamic routes for details.,/product-listing > _id,Details of each product as per the product ID.,Details displayed correctly,Passed,.,Perfectly displayed.
+TC003,Header Component & navigation.,Home | Listing | Shopping Cart,"Navigation, UI & responsiveness worked. ",Anavigation to respected routes.,Passed,.,Navigation worked as expected.
+TC004,Footer & Socials Media icons.,UI and Icons displayed nicely.,Perfect UI and responsiveness.,Working good.,Passed,.,Worked as expected.
+TC005,FAQ's Component,Using Shadcn/ui ACCORDION.,Major questions and their answers.,Answer of question.,Passed,.,Looks Great.
+TC006,Cart Component,Adding to cart.,Items in cart and their prices.,Data not rendering.,Failed,.,Will be fixed soon. I'm working non-stop.
+TC007,Responsiveness Test,"Changing Device (Mobile, PC).",Display as per the device.,Workes perfectly.,Passed,.,Fun to make responsivess.
