@@ -7,6 +7,7 @@ Hackathon_03 Maketplace_Builder. 🙌
 Defined project goals, target audience, and value proposition.
 Created wireframes and flowcharts to map the platform's structure.
 Conducted brainstorming sessions to align on the vision.
+
 ✨ Key Outcome:
 A solid business strategy and a clear roadmap for implementation.
 
@@ -20,6 +21,7 @@ Styling: Tailwind CSS for rapid and responsive UI design.
 
 Set up the Next.js project structure.
 Integrated Tailwind CSS and designed the dynamic UI system.
+
 ✨ Key Outcome:
 A robust technical foundation with tools ready for development.
 
@@ -29,6 +31,7 @@ A robust technical foundation with tools ready for development.
 Connected APIs to enable dynamic data fetching.
 Migrated data into Sanity, a headless CMS for efficient content management.
 Ensured seamless data retrieval for frontend integration.
+
 ✨ Key Outcome:
 A fully functional backend with integrated APIs and structured data.
 
@@ -41,6 +44,7 @@ Product Listings: Displayed dynamically fetched product data.
 Dynamic Routes: Created routes for individual product pages.
 
 FAQs Section: Populated dynamically based on user queries. etc.
+
 ✨ Key Outcome:
 An interactive and responsive frontend powered by dynamic content.
 
@@ -50,6 +54,7 @@ An interactive and responsive frontend powered by dynamic content.
 Performance Testing: Evaluated loading speeds and scalability, Using pagespeed which rated it around 98 for Desktop and 90 for Mobiles.
 
 Reponsiveness: Rendering on differnt screen sized devices (e.g., Mobile Phone, Desktop and Tablets.)
+
 ✨ Key Outcome:
 A high-performing, fully responsive, and browser-compatible platform.
 
@@ -59,6 +64,7 @@ A high-performing, fully responsive, and browser-compatible platform.
 Compiled a detailed report summarizing the hackathon process.
 Highlighted achievements, challenges, and their resolutions.
 Delivered a final project presentation showcasing all features.
+
 ✨ Key Outcome:
 A polished application, an in-depth final report, and a successful project demonstration.
 
