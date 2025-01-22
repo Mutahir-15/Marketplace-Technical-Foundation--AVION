@@ -14,6 +14,7 @@ A solid business strategy and a clear roadmap for implementation.
 💻 Technologies Introduced:
 
 Framework: Next.js for scalable and SEO-friendly development.
+
 Styling: Tailwind CSS for rapid and responsive UI design.
 ⚙️ Activities:
 
@@ -36,7 +37,9 @@ A fully functional backend with integrated APIs and structured data.
 
 Built key components like:
 Product Listings: Displayed dynamically fetched product data.
+
 Dynamic Routes: Created routes for individual product pages.
+
 FAQs Section: Populated dynamically based on user queries. etc.
 ✨ Key Outcome:
 An interactive and responsive frontend powered by dynamic content.
@@ -45,6 +48,7 @@ An interactive and responsive frontend powered by dynamic content.
 🔍 Activities:
 
 Performance Testing: Evaluated loading speeds and scalability, Using pagespeed which rated it around 98 for Desktop and 90 for Mobiles.
+
 Reponsiveness: Rendering on differnt screen sized devices (e.g., Mobile Phone, Desktop and Tablets.)
 ✨ Key Outcome:
 A high-performing, fully responsive, and browser-compatible platform.
