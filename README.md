@@ -72,6 +72,6 @@ Deployed the AVION website on Vercel, along with its separate, password-protecte
 all the necessary information about the website, its services, problem-solving approach, market opportunity, and a call to action.
 
 ✨ Key Outcome:
-A polished application, an in-depth final report, and a successful project demonstration.
+A polished application, an in-depth final report, and a successful project demonstration with password protected Admin dashboard.
 
-# JazakAllah Honorable Faculty for providing this quality environment full of challenges, thrill and Fun. ❤❤
+# JazakAllah Honorable Faculty for providing this quality environment full of challenges, thrill and Fun. Results the final Product. ❤❤
