@@ -66,7 +66,7 @@ Highlighted achievements, challenges, and their resolutions.
 Delivered a final project presentation showcasing all features.
 
 # Day 7: Live diployment and Business Pitch Deck
-Activities:
+💻 Activities:
 
 Deployed the AVION website on Vercel, along with its separate, password-protected Admin Dashboard. After that, I created a business pitch presentation that includes 
 all the necessary information about the website, its services, problem-solving approach, market opportunity, and a call to action.
