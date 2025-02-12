@@ -74,5 +74,5 @@ all the necessary information about the website, its services, problem-solving a
 ✨ Key Outcome:
 A polished application, an in-depth final report, and a successful project demonstration with password protected Admin dashboard.
 
-# JazakAllah Honorable Faculty for providing this quality environment full of challenges, thrill and Fun. 
-# Results the final Product. ❤❤
+# JazakAllah Honorable Faculty for providing this quality environment full of challenges, thrill and Fun. ❤❤
+# Results the final Product. 💻
