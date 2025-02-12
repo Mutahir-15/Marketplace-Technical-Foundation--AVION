@@ -65,6 +65,12 @@ Compiled a detailed report summarizing the hackathon process.
 Highlighted achievements, challenges, and their resolutions.
 Delivered a final project presentation showcasing all features.
 
+# Day 6: Live diployment and Business Pitch Deck
+Activities:
+
+Deployed the AVION website on Vercel, along with its separate, password-protected Admin Dashboard. After that, I created a business pitch presentation that includes 
+all the necessary information about the website, its services, problem-solving approach, market opportunity, and a call to action.
+
 ✨ Key Outcome:
 A polished application, an in-depth final report, and a successful project demonstration.
 
